@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "By Omar",
+    "description": "",
+    "home_page_url": "https://byomar.dev",
+    "feed_url": "https://byomar.dev/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Omar Mohamed"
+    },
+    "items": [
+    ]
+}
