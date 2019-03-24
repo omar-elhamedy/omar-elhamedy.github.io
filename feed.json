@@ -1,29 +1,13 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "By Omar",
+    "title": "Omar Mohamed Hasan",
     "description": "",
     "home_page_url": "https://byomar.dev",
     "feed_url": "https://byomar.dev/feed.json",
     "user_comment": "",
-    "icon": "https://byomar.dev/media/website/Logo.png",
     "author": {
         "name": "Omar Mohamed"
     },
     "items": [
-        {
-            "id": "https://byomar.dev/world-of-satellite/",
-            "url": "https://byomar.dev/world-of-satellite/",
-            "title": "World Of Satellite",
-            "summary": "World of satelite is the landing page for BeIn service provider in Palastine, Developed and designed in WordPress built and configured by me, Theme&hellip;",
-            "content_html": "<p>World of satelite is the landing page for BeIn service provider in Palastine, Developed and designed in WordPress built and configured by me, Theme by <a href=\"https://themeforest.net/item/maxinet-broadband-telecom-wordpress-theme/21945375\" target=\"_blank\" rel=\"noopener noreferrer\">ThemeREX</a>. The client reached me on my Upwork profile to build him this website in English and Arabic.</p>\n<p>The Home Page </p>\n<p><img class=\"post__image\" src=\"https://byomar.dev/media/posts/1/screencapture-wos-ps-2019-03-20-14_11_36.png\" alt=\"Homepage Screenshot\" width=\"1920\" height=\"4000\"></p>",
-            "image": "https://byomar.dev/media/posts/1/featured.jpg",
-            "author": {
-                "name": "Omar Mohamed"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-03-24T00:11:23+02:00",
-            "date_modified": "2019-03-24T00:11:23+02:00"
-        }
     ]
 }
